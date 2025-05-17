@@ -47,14 +47,6 @@ Subscribers can support their favorite creators by buying their meme coins. Thes
 
 ---
 
-📦 **Installation**
-
-```bash
-git clone https://github.com/yourusername/gamefun.git
-cd gamefun
-
-npm install
-```
 
 Create a `.env` file with your credentials:
 
