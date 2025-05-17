@@ -49,6 +49,7 @@ Subscribers can support their favorite creators by buying their meme coins. Thes
 
 
 Create a `.env` file with your credentials:
+DUMY
 
 ```
 VITE_SUPABASE_URL=your-supabase-url
